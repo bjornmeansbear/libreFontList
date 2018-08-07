@@ -12,6 +12,7 @@ My personal favs when it comes to F/LOS type offerings
 - Amstelvar
   - https://github.com/TypeNetwork/Amstelvar
   - https://www.typenetwork.com/brochure/opentype-variable-fonts-moving-right-along/
+- Barlow: https://tribby.com/fonts/barlow/
 - Cormorant Garamond
   - https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family
 - SIL Gentium
@@ -42,6 +43,10 @@ My personal favs when it comes to F/LOS type offerings
   - sourcecode repo: https://github.com/itfoundry/Poppins
 - OSP Not Courier Sans
   - http://ospublish.constantvzw.org/foundry/notcouriersans/
+- RedHat Liberation Fonts: https://pagure.io/liberation-fonts (metrically compatible replacements for arial, times new roman, and courier new)
+- RedHat Overpass: http://overpassfont.org/?mc_cid=ca3bb749f1&mc_eid=ec23042f92 & 
+- Google Noto: https://www.google.com/get/noto/
+- Spectral: https://github.com/productiontype/spectral
 
 A more general listing of any and all interesting finds I've come across can be found on Are.na:  
 https://www.are.na/kristian-bjornard/libretype
