@@ -1,11 +1,9 @@
 # A Libre Font List.
 
 > ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±  
-  
-When people see type that they feel could be improved, if it is in the public domain they are free to do so. With the development of free software font editors, everyone has access to the necessary tools. Now the obstacle is that the knowledge of how to develop and refine type is not freely available.  
+> When people see type that they feel could be improved, if it is in the public domain they are free to do so. With the development of free software font editors, everyone has access to the necessary tools. Now the obstacle is that the knowledge of how to develop and refine type is not freely available.  
 — David Crossland  
-  
-±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+> ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
 My personal favs when it comes to F/LOS type offerings
 
