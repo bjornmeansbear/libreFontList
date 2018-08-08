@@ -7,6 +7,10 @@
 >
 > ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
+End result of a thread on twitter: https://twitter.com/imagineterrain/status/1017789533390286849
+
+And, outcomes of explorations and thinking from a course I ran in Spring of 2018 — [Special Topics in Graphic Design: Open Source](https://github.com/gd399-osd) at the Maryland Institute College of Art.
+
 My personal favs when it comes to F/LOS type offerings
 
 - Amstelvar
