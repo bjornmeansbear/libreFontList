@@ -15,13 +15,13 @@ My personal favs when it comes to F/LOS type offerings
 - Barlow: https://tribby.com/fonts/barlow/
 - Cormorant Garamond
   - https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family
-- SIL Gentium
+- SIL Gentium: https://software.sil.org/gentium/download/
 - Inria
   - https://github.com/BlackFoundry/InriaFonts
   - https://black-foundry.com/work/inria/
-- League Gothic
-- League Mono
-- IBM Plex (extensive family)
+- League Gothic: https://www.theleagueofmoveabletype.com/league-gothic
+- League Mono: https://www.theleagueofmoveabletype.com/league-mono
+- IBM Plex (extensive family): https://www.ibm.com/plex/
 - Fira (extensive family)
   - https://bboxtype.com/typefaces/FiraSans/#!layout=specimen
   - http://mozilla.github.io/Fira/
@@ -37,14 +37,21 @@ My personal favs when it comes to F/LOS type offerings
 - Libre Bodoni: https://github.com/impallari/Libre-Bodoni
 - Libre Caslon: https://github.com/impallari/Libre-Caslon-Text & https://github.com/impallari/Libre-Caslon-Display
 - Libre Clarendon: https://github.com/impallari/Libre-Clarendon
-- Source Sans (extensive family)
+- Source Sans/Code/Serif (extensive family)
+  - https://adobe-fonts.github.io/source-sans-pro/
+  - https://github.com/adobe-fonts/source-sans-pro
+  - https://typekit.com/fonts/source-sans
+  - https://typekit.com/fonts/source-code-pro
+  - https://typekit.com/fonts/source-serif
+  - https://typekit.com/lists/source-han-sans
+  - https://fonts.google.com/?query=source
 - ITF Poppins
   - fonts: https://github.com/itfoundry/Poppins/blob/master/products/PoppinsLatin-5.001-Latin-OTF.zip
   - sourcecode repo: https://github.com/itfoundry/Poppins
 - OSP Not Courier Sans
   - http://ospublish.constantvzw.org/foundry/notcouriersans/
 - RedHat Liberation Fonts: https://pagure.io/liberation-fonts (metrically compatible replacements for arial, times new roman, and courier new)
-- RedHat Overpass: http://overpassfont.org/?mc_cid=ca3bb749f1&mc_eid=ec23042f92 & 
+- RedHat Overpass: http://overpassfont.org/
 - Google Noto: https://www.google.com/get/noto/
 - Spectral: https://github.com/productiontype/spectral
 
@@ -56,3 +63,4 @@ And, look at, test, download, etc. at:
 - https://fontain.org/
 - https://fonts.google.com/ / https://github.com/googlefonts
 - http://usemodify.com/
+- http://typotheque.interstices.io/
