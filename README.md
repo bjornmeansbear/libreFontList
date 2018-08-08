@@ -25,7 +25,8 @@ My personal favs when it comes to F/LOS type offerings
 - Fira (extensive family)
   - https://bboxtype.com/typefaces/FiraSans/#!layout=specimen
   - http://mozilla.github.io/Fira/
-  - https://github.com/mozilla/Fira
+  - https://github.com/mozilla/Fira 
+- Garamond No. 8 - https://garamond.org/
 - Open Sans
   - https://github.com/googlefonts/opensans
   - https://fonts.google.com/specimen/Open+Sans
